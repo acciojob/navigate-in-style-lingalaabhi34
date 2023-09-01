@@ -2,7 +2,7 @@
 .container{
     background-color:rgb(211, 211, 211);
     padding: 10px;
-	display:flex;
+/* 	display:flex; */
 }
 .container>ul>li{
 	
