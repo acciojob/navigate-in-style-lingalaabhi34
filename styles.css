@@ -4,9 +4,12 @@
     padding: 10px;
 /* 	display:flex; */
 }
+.container>ul{
+	display:flex;
+}
 .container>ul>li{
 	
     list-style-type: none;
-    display: flex;
+    display: inline;
     margin-right: 1rem;
 }
