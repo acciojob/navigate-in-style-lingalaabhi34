@@ -1,9 +1,11 @@
 /*  your css code here. If applicable */
-nav{
-    background-color:#D3D3D3;
+.container{
+    background-color:rgb(211, 211, 211);
     padding: 10px;
+	display:flex;
 }
-nav>ul>li{
+.container>ul>li{
+	
     list-style-type: none;
     display: inline;
     margin-right: 1rem;
